@@ -4,4 +4,5 @@ third entry
 fourth entry
 fifth entry
 sixth entrytesting branch merging
+appending from branch
 adding stuff from master
